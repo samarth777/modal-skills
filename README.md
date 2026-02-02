@@ -49,7 +49,7 @@ modal-skills/
     └── code_executor.md     # Secure code sandbox
 ```
 
-# Try in Claude Code, Claude.ai, and the API
+# Try in Claude Code, OpenCode, Copilot CLI
 
 ## Claude Code
 
