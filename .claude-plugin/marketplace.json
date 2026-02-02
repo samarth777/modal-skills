@@ -1,0 +1,22 @@
+{
+  "name": "modal-skills",
+  "owner": {
+    "name": "Samarth",
+    "email": "samarth@example.com"
+  },
+  "metadata": {
+    "description": "Skills for building serverless Python applications on Modal - GPU inference, web endpoints, batch processing, and more",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "modal",
+      "description": "Guide for building serverless Python applications on Modal - a cloud platform for running AI/ML workloads, GPU-accelerated code, web endpoints, scheduled jobs, and batch processing with minimal configuration.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "."
+      ]
+    }
+  ]
+}
