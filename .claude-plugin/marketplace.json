@@ -12,9 +12,19 @@
     {
       "name": "modal",
       "description": "Guide for building serverless Python applications on Modal - a cloud platform for running AI/ML workloads, GPU-accelerated code, web endpoints, scheduled jobs, and batch processing with minimal configuration.",
-      "source": "./",
+      "source": "./skills",
       "strict": false,
-      "skills": ["modal-skills"]
+      "skills": [
+        "main",
+        "gpus",
+        "images",
+        "sandboxes",
+        "web-endpoints",
+        "llm-inference",
+        "image-gen",
+        "data-pipeline",
+        "code-exec"
+      ]
     }
   ]
 }
